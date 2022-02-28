@@ -1,4 +1,5 @@
 while True:
+    
     try:
         n, m = input().split()
         qt = 0
